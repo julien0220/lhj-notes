@@ -49,7 +49,7 @@ module.exports = {
     icons: [
       {
         iconClass: 'icon-github',
-        title: 'GitHub',
+        title: '仓库链接',
         link: 'https://github.com/julien0220',
       },
       {
@@ -68,6 +68,6 @@ module.exports = {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      'julien0220 | <a href="https://github.com/julien0220/lhj-notes/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'julien0220 | <a href="https://gitee.com/LHdensity/electron-polyv#%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
