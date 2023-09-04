@@ -55,12 +55,12 @@ module.exports = {
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: 'mailto:sehjli@mail.scut.edu.cn',
+        link: 'mailto:julienleey@foxmail.com',
       },
       {
         iconClass: 'icon-gitee',
         title: 'Gitee',
-        link: 'https://gitee.com/julien0220',
+        link: 'https://gitee.com/LHdensity',
       },
     ],
   },
